@@ -1,0 +1,7 @@
+D:\New folder\project1\bin\Debug\net7.0\publish\project1.exe
+D:\New folder\project1\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\New folder\project1\bin\Debug\net7.0\publish\appsettings.json
+D:\New folder\project1\bin\Debug\net7.0\publish\project1.dll
+D:\New folder\project1\bin\Debug\net7.0\publish\project1.deps.json
+D:\New folder\project1\bin\Debug\net7.0\publish\project1.runtimeconfig.json
+D:\New folder\project1\bin\Debug\net7.0\publish\project1.pdb
